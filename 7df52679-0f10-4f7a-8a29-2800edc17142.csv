@@ -1,0 +1,10 @@
+"""'Workflow""","""'Has job failures""","""'Avg run time""","""'Workflow runs""","""'Jobs"""
+"""'.github/workflows/nightly.yml""",100.00,1359451,12,2
+"""'.github/workflows/release.yml""",12.50,992941,8,1
+"""'.github/workflows/lint.yml""",11.85,270007,270,3
+"""'.github/workflows/build.yml""",25.54,207509,278,5
+"""'dynamic/copilot-pull-request-reviewer/copilot-pull-request-reviewer""",0.00,92833,3,6
+"""'dynamic/dependabot/dependabot-updates""",60.00,57952,5,1
+"""'.github/workflows/schema-update.yml""",0.00,28790,6,1
+"""'.github/workflows/cla.yml""",7.31,5688,465,1
+"""'.github/workflows/labeler.yml""",0.00,4444,73,1
